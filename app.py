@@ -56,7 +56,7 @@ def model_predict(img_path, model):
     if preds==0:
         preds="Ye to Billi hai"
     else:
-        preds="U utta hai bhai"
+        preds="U ktta hai bhai"
     
     
     return preds
